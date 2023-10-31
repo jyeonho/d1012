@@ -1,0 +1,10 @@
+package d1023;
+
+public class ActionExam02 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
